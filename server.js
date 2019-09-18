@@ -23,4 +23,4 @@ app.listen(PORT, () => console.log(`Server started on ${PORT}`));
 
 
 // Lesson Status (091619) - Done up to 3-5 Custom auth middleware
-// Current: 6. User Authentication - Stopped at 5:20
+// Current: 6. User Authentication - Stopped at 7:44
