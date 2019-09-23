@@ -22,5 +22,5 @@ const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server started on ${PORT}`));
 
 
-// Lesson Status (091619) - Done up to 3-6 User Authentication
-// Current: 4 - 1. Creating The Profile Model (Stopped at: )
+// Lesson Status (091619) - Done up to 4-2. Get Current User Profile
+// Current: 4 - 3. Create & Update Profile Routes (Stopped at: 0:00 )
