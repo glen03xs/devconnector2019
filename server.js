@@ -21,6 +21,5 @@ const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => console.log(`Server started on ${PORT}`));
 
-
-// Lesson Status (091619) - Done up to 4-2. Get Current User Profile
-// Current: 4 - 3. Create & Update Profile Routes (Stopped at: 0:00 )
+// Lesson Status (101719) - Done up to 4-4. Get All Profiles & Profile By User ID
+// Current: 4 - 5. Delete Profile & User
